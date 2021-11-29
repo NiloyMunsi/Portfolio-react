@@ -1,0 +1,20 @@
+[
+    {
+        "name": "O'Clock",
+        "type": "e-commerce",
+        "Technologies": "ReactJS, React-Router ,Private-Route, ExpressJS, NodeJS, Firebase, MongoDB,Heroku, HTML, CSS, Bootstrap.",
+        "img": "https://ibb.co/1ZWFp0G"
+    },
+    {
+        "name": "Skyline-Travel",
+        "type": "Travel website",
+        "Technologies": "ReactJS, React-Router ,Private-Route, ExpressJS, NodeJS, Firebase, MongoDB,Heroku, HTML, CSS, Bootstrap.",
+        "img": "https://ibb.co/ZxQMYDr"
+    },
+    {
+        "name": "Medicare-Services",
+        "type": "Medical-help",
+        "Technologies": "ReactJS, React-Router ,Private-Route, ExpressJS, NodeJS, Firebase, MongoDB,Heroku, HTML, CSS, Bootstrap.",
+        "img": "https://ibb.co/kxC75Fq"
+    }
+]

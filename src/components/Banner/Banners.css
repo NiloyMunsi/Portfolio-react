@@ -1,0 +1,10 @@
+.banner{
+    background-image: url(../../images/background.jpg);
+    display: flex;
+    padding: 10%;
+}
+.hero-img{
+    width: 600px;
+    padding: 5%;
+    margin-left: 15%;
+}

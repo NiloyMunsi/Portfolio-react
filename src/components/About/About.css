@@ -1,0 +1,13 @@
+.about{
+    display: flex;
+    /* width: 50%; */
+    /* padding: 5%; */
+}
+.aboutimg{
+    width: 100vh;
+    height: 80vh;
+    /* padding-left: 50%; */
+}
+.aboutdetails{
+    padding: 10%;
+}
